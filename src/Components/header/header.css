@@ -1,0 +1,12 @@
+/* .navbar-nav .nav-link.active,
+.navbar-nav .nav-link.show {
+  background-color: rgb(92 92 92 / 60%);
+  border-radius: 5px;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding: 8px;
+} */
+.nav-link.active{
+    background-color: rgb(96, 85, 85);
+    border-radius: 5px;
+}
